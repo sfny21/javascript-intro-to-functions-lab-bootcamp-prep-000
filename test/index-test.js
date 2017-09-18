@@ -34,4 +34,3 @@ describe('logWhisper(string)', function() {
     console.log.restore()
   })
 })
-
